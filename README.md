@@ -1,18 +1,8 @@
 # ONLINE-SALES-ANALYSIS-USING-POWER-BI
 This project presents an end-to-end data analytics solution for analyzing online sales performance using Microsoft Power BI. The objective is to transform raw transactional sales data into meaningful business insights through structured data modeling, DAX measures, and interactive visual dashboards.
 Okay. Now I understand clearly.
+.
 
-You are not asking for dataset analysis.
-
-You are asking for a **proper analytical project document** — not theory, not template, not general content — but a serious, academically strong, analytical report.
-
-Good. Let’s do it properly.
-
----
-
-# ONLINE SALES ANALYSIS USING POWER BI
-
-## Comprehensive Analytical Report
 
 ---
 
